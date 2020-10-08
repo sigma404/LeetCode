@@ -9,5 +9,4 @@ class Solution{
     }
     return new int[]{};   //return an empty array to indicate failure
   }
-
 }
